@@ -5,9 +5,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a3663f2-2e77-4e74-98ed-7b02a2355652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CryptoCrazy/asyncexamples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CryptoCrazy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working with the internet/RequestsExample/putpatchdelete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CryptoCrazy/asyncexamples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CryptoCrazy/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Input/Letters/starting_letter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Input/Names/invited_names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/example.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Aang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Appa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Katara.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Momo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Sokka.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Toph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Uncle Iroh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/Output/ReadyToSend/letter_for_Zuko.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mail Merge/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/BMI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/Secret Notes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/buttons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter/playground.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US States Game/50_states.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US States Game/blank_states_img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US States Game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/US States Game/states_to_learn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled Folder/.ipynb_checkpoints/BigONotationFunctions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled Folder/BigONotationFunctions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/.idea/oop-coffee-machine-start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/coffee_maker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/money_machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/etch_a/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/etch_a/race.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension/nato_phonetic_alphabet.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension/train2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_manager/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_manager/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_manager/passwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pomodoro/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pomodoro/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pomodoro/tomato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pong/ball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pong/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pong/paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pong/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.idea/a.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/question_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/quiz_brain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/2018_Central_Park_Squirrel_Census_-_Squirrel_Data_20240807.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/Squirrel_count.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/new_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/testt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading csv/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/my_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle/circle.au.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle/circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle/main.au.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle/randomwalk.au.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle/randomwalk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_crossing/car_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_crossing/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_crossing/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_crossing/scoreboard.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +127,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.putpatchdelete">
     <configuration name="asyncexamples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,32 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/snake" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RequestsExample" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etch_a" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etch_a/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RequestsExample/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,13 +212,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="putpatchdelete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Working with the internet/RequestsExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Working with the internet/RequestsExample/putpatchdelete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.putpatchdelete" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.asyncexamples" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,5 +264,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/US States Game/main.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
